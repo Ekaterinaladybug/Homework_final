@@ -30,7 +30,7 @@ FreeSymbols(array);
 */
 
 // Вариант решения 2: 
-
+/*
 string[] FreeSymbols(string[] array)
 {
     string[] array2 = new string[array.Length];
@@ -60,6 +60,6 @@ string[] array = {"moscow", "spb", "mjz", "ir", "frankfurt"};
 Console.WriteLine();
 Console.WriteLine("Элементы массива с тремя и менее символами:");
 string[] array2 = FreeSymbols(array);
-
+*/
 
 
